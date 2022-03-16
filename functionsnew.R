@@ -1,8 +1,8 @@
 # DS 413/613
-# Functions  Capters 15 and 17
+# Functions  
  library(tidyverse)
  library(lubridate)
-daniel
+J Dickens
 # A function is a structured and sequenced set of commands 
 # that process input values to produce output values efficiently.
 # A function reduces repetitive calculations that often result 
